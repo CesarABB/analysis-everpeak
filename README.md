@@ -11,7 +11,7 @@ EverPeak Retail Analysis – Sprint 7
 
 ▶ Cómo abrir el notebook en Google Colab
 
-  Haz clic en el siguiente boton: [![Open In Colab](https://colab.research.google.com/drive/1hu3asPjOHbCkNdmYHQBRtkMUtkDuL_hD?usp=sharing)](URL_DEL_NOTEBOOK_EN_GITHUB) 
+  Haz clic en el siguiente boton: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hu3asPjOHbCkNdmYHQBRtkMUtkDuL_hD?usp=sharing)
   O: Abre el archivo .ipynb en GitHub
 
 📘 Cómo reproducir el análisis
